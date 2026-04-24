@@ -3,8 +3,6 @@
 # **<a href="[https://github.com/Lipovs-Studios/](https://github.com/Lipovs-Studios/Hero-Caves)">Hero Caves</a>**
 
 КАРТА ДЛЯ COMMAND & CONQUER GENERALS ZERO HOUR
-> [!CAUTION]
->
 > ### КАРТА НАХОДИТСЯ В РАЗРАБОТКЕ
 </div>
 
